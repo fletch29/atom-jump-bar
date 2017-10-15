@@ -2,13 +2,13 @@
   "name": "atom-jump-bar",
   "main": "./lib/atom-jump-bar",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Jump Bar for the Atom editor",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "atom-jump-bar:toggle"
   },
-  "repository": "https://github.com/atom/atom-jump-bar",
+  "repository": "https://github.com/fletch29/atom-jump-bar",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
